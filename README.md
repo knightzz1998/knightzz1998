@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=knightzz1998&color=green)
-[![个人博客](https://img.shields.io/badge/-个人博客（knightzz.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://knightzz.cn/)
+[![个人博客](https://img.shields.io/badge/-个人博客（knightzz.cn）-c14438?style=flat-square&logo=B&logoColor=white)](http://knightzz.cn/)
 [![Github](https://img.shields.io/github/followers/knightzz1998?label=Github&style=social)](https://github.com/knightzz1998)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/knightzz98)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/weixin_40040107)
